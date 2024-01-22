@@ -1,2 +1,2 @@
 # Free-V-bucks-generator
-(It doesn't actually generate Vbucks)
+(It doesn't actually generate Vbucks but it's still cool)
